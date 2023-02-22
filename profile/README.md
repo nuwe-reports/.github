@@ -1,8 +1,14 @@
-Hey, this is Nuwe! ✌
 
----
+<div align="center">
+  <img align="center"  width="auto" height="auto" src="https://nuwe.io/images/Group-3-3.png" />
+  <br/>
 
-![Logo](https://i.postimg.cc/QdmZLj5J/LOGO-LETTERS-MONO-3.png)
+  <div id="user-content-toc">
+    <ul>
+      <summary><h1 style="display: inline-block;">Java & Spring</h1></summary>
+    </ul>
+  </div>
+</div>
 
 [Nuwe](https://nuwe.io) is a platform that uses artificial intelligence and big data to help large companies to hire programmers from competitions and technological reptes that represent their business activity.
 
