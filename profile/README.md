@@ -31,5 +31,5 @@ Enjoy the Hacking!
 [![Skeleton - API Spring Boot & Java](https://github-readme-stats.vercel.app/api/pin/?username=nuwe-reports&repo=java-spring-rest-skeleton)](https://github.com/nuwe-reports/java-spring-rest-skeleton)
 [![Skeleton - API Flask & Python](https://github-readme-stats.vercel.app/api/pin/?username=nuwe-reports&repo=python-flask-api)](https://github.com/nuwe-reports/python-flask-api)
 [![Skeleton - API Django & Python](https://github-readme-stats.vercel.app/api/pin/?username=nuwe-reports&repo=python-django-api)](https://github.com/nuwe-reports/python-django-api)
-[![Skeleton - C# & ASP.NET Core](https://github-readme-stats.vercel.app/api/pin/?username=nuwe-reports&repo=asp-net-api-skeleton)](https://github.com/nuwe-reports/skeleton-asp-net-api)
+[![Skeleton - Vite Vue](https://github-readme-stats.vercel.app/api/pin/?username=nuwe-reports&repo=skeleton-vue)](https://github.com/nuwe-reports/skeleton-vue)
 [![Skeleton - Express API & JS/TS](https://github-readme-stats.vercel.app/api/pin/?username=nuwe-reports&repo=express-api-skeleton)](https://github.com/nuwe-reports/express-api-skeleton)
