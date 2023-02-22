@@ -5,7 +5,7 @@
 
   <div id="user-content-toc">
     <ul>
-      <summary><h1 style="display: inline-block;">Java & Spring</h1></summary>
+      <summary><h1 style="display: inline-block;">Nuwe Skeletons</h1></summary>
     </ul>
   </div>
 </div>
